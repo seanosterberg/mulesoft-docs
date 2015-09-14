@@ -48,7 +48,7 @@ To install the MongoDB Connector:
 
 +
 
-image:mg_install.png["Anypoint Studio Install Window"]
+image:_images/mg_install.png["Anypoint Studio Install Window"]
 
 . Click *Next* and accept the license agreement
 . Restart Studio when prompted
