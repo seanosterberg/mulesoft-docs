@@ -16,10 +16,10 @@ Agent plugins integrations is compatible with the following runtime versions:
 
 === Features and Functionalities
 
-==== Agent Plugins Integration (Splunk & Log)
+==== Agent Plugins Integration (Splunk & ELK)
 Users will now have the ability to monitor their applications with an out-of-the box integration experience for monitoring tools such as Splunk & ELK. This enables the user to have a unified view of all applications, servers, etc.
 
-==== API Gateway Integration (Splunk & Log)
+==== API Gateway Integration (Splunk & ELK)
 Users now have the ability to integrate their API Gateway with Agent/ARM and pass API Metrics for analytics and governance. 
 
 R44 W2 fixes:
